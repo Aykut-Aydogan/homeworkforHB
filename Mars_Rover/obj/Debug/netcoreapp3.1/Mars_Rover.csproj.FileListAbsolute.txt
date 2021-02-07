@@ -1,0 +1,13 @@
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\bin\Debug\netcoreapp3.1\Mars_Rover.exe
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\bin\Debug\netcoreapp3.1\Mars_Rover.deps.json
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\bin\Debug\netcoreapp3.1\Mars_Rover.runtimeconfig.json
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\bin\Debug\netcoreapp3.1\Mars_Rover.runtimeconfig.dev.json
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\bin\Debug\netcoreapp3.1\Mars_Rover.dll
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\bin\Debug\netcoreapp3.1\Mars_Rover.pdb
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\obj\Debug\netcoreapp3.1\Mars_Rover.csprojAssemblyReference.cache
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\obj\Debug\netcoreapp3.1\Mars_Rover.AssemblyInfoInputs.cache
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\obj\Debug\netcoreapp3.1\Mars_Rover.AssemblyInfo.cs
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\obj\Debug\netcoreapp3.1\Mars_Rover.csproj.CoreCompileInputs.cache
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\obj\Debug\netcoreapp3.1\Mars_Rover.dll
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\obj\Debug\netcoreapp3.1\Mars_Rover.pdb
+C:\Users\aykut.aydogan\source\repos\Mars_Rover\Mars_Rover\obj\Debug\netcoreapp3.1\Mars_Rover.genruntimeconfig.cache
